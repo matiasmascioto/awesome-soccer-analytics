@@ -6,6 +6,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 
 * [Blogs](#blogs)
 * [Events - Conferences](#events--conferences)
+* [Twitter Accounts](#twitter-accounts)
 
 
 ## Blogs
@@ -35,4 +36,24 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [MIT Sloan Sports Analytics Conference](http://www.sloansportsconference.com/)
 * [New England Symposium on Statistics in Sports](http://www.nessis.org/)
 * [Sports Analytics World Series](https://www.analyticsinsport.com/)
-* [Sports Technology Symposium](https://www.fcbarcelona.com/club/sports-technology-symposium*)
+* [Sports Technology Symposium](https://www.fcbarcelona.com/club/sports-technology-symposium)
+
+## Twitter Accounts
+### Data Scientists - Data Analysts
+* [Andre Brener](https://twitter.com/andre_brener)
+* [Eliot McKinley](https://twitter.com/etmckinley)
+* [Garry Gelade](https://twitter.com/GarryGelade)
+* [Luke Bornn](https://twitter.com/LukeBornn)
+* [Mark Taylor](https://twitter.com/MarkTaylor0)
+* [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)
+* [Paul Power](https://twitter.com/counterattack9)
+* [Paul Riley](https://twitter.com/footballfactman)
+* [Philip Z. Maymin](https://twitter.com/pmaymin)
+* [Peter McKeever](https://twitter.com/petermckeever)
+
+### Others
+* [Big Data Sports](https://twitter.com/bigdatasport)
+* [danzn1](https://twitter.com/danzn1)
+* [Fútbol Avanzado](https://twitter.com/FutbolAvanzado)
+* [Last Row](https://twitter.com/lastrowview)
+* [Predictive Analytics](https://twitter.com/moneyballfutbol)
