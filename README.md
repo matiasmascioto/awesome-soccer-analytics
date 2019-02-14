@@ -8,6 +8,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Companies](#companies)
 * [Events - Conferences](#events--conferences)
 * [Twitter Accounts](#twitter-accounts)
+* [Others](#others)
 
 
 ## Blogs
@@ -83,3 +84,10 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Fútbol Avanzado](https://twitter.com/FutbolAvanzado)
 * [Last Row](https://twitter.com/lastrowview)
 * [Predictive Analytics](https://twitter.com/moneyballfutbol)
+
+## Others
+* [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/)
+* [FIFA EPTS (Electronic Performance and Tracking Systems)](https://football-technology.fifa.com/en/media-tiles/epts/)
+* [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf)
+* [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport)
+* [Expected Goal literature](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit)
