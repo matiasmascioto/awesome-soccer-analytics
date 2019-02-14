@@ -5,13 +5,13 @@ A curated list of awesome resources related to *Soccer Analytics*.
 ### Table of contents
 
 * [Blogs](#blogs)
-* [Events - Conferences](#events-&-conferences)
+* [Events - Conferences](#events--conferences)
 
 
 ## Blogs
 
-* [2+2=11](https://2plus2equals11.com/
-* [All Things Football](https://allthingsfootballonline.blogspot.com/
+* [2+2=11](https://2plus2equals11.com/)
+* [All Things Football](https://allthingsfootballonline.blogspot.com/)
 * [American Soccer Analysis](https://www.americansocceranalysis.com/)
 * [Analítica Sports](http://www.analiticasports.com)
 * [differentgame](https://differentgame.wordpress.com/)
