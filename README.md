@@ -5,12 +5,12 @@ A curated list of awesome resources related to *Soccer Analytics*.
 ### Table of contents
 
 * [Blogs](#blogs)
+* [Companies](#companies)
 * [Events - Conferences](#events--conferences)
 * [Twitter Accounts](#twitter-accounts)
 
 
 ## Blogs
-
 * [2+2=11](https://2plus2equals11.com/)
 * [All Things Football](https://allthingsfootballonline.blogspot.com/)
 * [American Soccer Analysis](https://www.americansocceranalysis.com/)
@@ -28,6 +28,32 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [The Power of Goals](https://thepowerofgoals.blogspot.com/)
 * [WoSo Stats](https://wosostats.wordpress.com/)
 * [Wyscout](https://blog.wyscout.com/)
+
+## Companies
+### Data Providers
+* [Datafactory](http://www.datafactory.la/)
+* [Opta Sports](https://www.optasports.com/)
+* [Sport radar](https://www.sportradar.com/)
+* [STATS](https://www.stats.com/data-science/)
+* [Wyscout](https://wyscout.com/es/)
+
+### Tracking
+* [ChyronHego](https://chyronhego.com/)
+* [STATS SportVU](https://www.stats.com/sportvu-football/)
+* [Kinexon](https://kinexon-sports.com/)
+
+
+### Video Analysis - Performance Analysis
+* [ERIC Sports](http://www.ericsports.net/)
+* [hudl](https://www.hudl.com/)
+* [LBi Dynasty](http://www.lbidynasty.com/)
+* [LongoMatch](https://longomatch.com/es/)
+* [MEDIACOACH](https://portal.mediacoach.es/)
+* [Metrica Sports](https://metrica-sports.com/)
+* [Olocip](http://www.olocip.com/)
+* [SICO](https://www.sicostats.com/)
+* [nacsport](https://nacsport.com/)
+
 
 ## Events & Conferences
 * [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html)
