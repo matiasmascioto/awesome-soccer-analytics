@@ -69,7 +69,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 ## Tools & Projects
 ### Visualisation
 * [ggsoccer](https://github.com/Torvaney/ggsoccer) (R) Plot Opta-style soccer event data in R/ggplot2
-Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) (Python) Plotting xy football data in python
+* [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) (Python) Plotting xy football data in python
 * [PlusMinusModels](https://github.com/tpospisi/PlusMinusModels) (R) This package fits plus-minus models for sports data.
 * [PyFootballPitch](https://github.com/znstrider/PyFootballPitch) (Python) Functions to draw a football pitch in various available styles for matplotlib and bokeh
 * [SBpitch](https://github.com/FCrSTATS/SBpitch) (R) Creates customisable plots of pitches in ggplot2 that allows event data to be plotted on top
