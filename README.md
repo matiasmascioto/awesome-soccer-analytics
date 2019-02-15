@@ -7,6 +7,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Blogs](#blogs)
 * [Companies](#companies)
 * [Events & Conferences](#events--conferences)
+* [Open Source Libraries](#open-source-libraries)
 * [Tools & Projects](#tools--projects)
 * [Twitter Accounts](#twitter-accounts)
 * [Others](#others)
@@ -66,10 +67,9 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Sports Analytics World Series](https://www.analyticsinsport.com/)
 * [Sports Technology Symposium](https://www.fcbarcelona.com/club/sports-technology-symposium)
 
-## Tools & Projects
+## Open Source Libraries
 ### Visualisation
 * [ggsoccer](https://github.com/Torvaney/ggsoccer) (R) Plot Opta-style soccer event data in R/ggplot2
-* [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) (Python) Plotting xy football data in python
 * [PlusMinusModels](https://github.com/tpospisi/PlusMinusModels) (R) This package fits plus-minus models for sports data.
 * [PyFootballPitch](https://github.com/znstrider/PyFootballPitch) (Python) Functions to draw a football pitch in various available styles for matplotlib and bokeh
 * [SBpitch](https://github.com/FCrSTATS/SBpitch) (R) Creates customisable plots of pitches in ggplot2 that allows event data to be plotted on top
@@ -79,7 +79,6 @@ A curated list of awesome resources related to *Soccer Analytics*.
 ### Others
 * [Expected-Goals-Model](https://github.com/KubaMichalczyk/Expected-Goals-Model) (R) Expected Goals Model
 * [extending-xG-gain](https://github.com/KubaMichalczyk/extending-xG-gain) (R) An attempt to extend xG gain
-* [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) (Python) Following Messi with TensorFlow and Object Detection
 * [Football-crunching](https://github.com/rjtavares/football-crunching) (Python) Some soccer analysis
 * [kroeber](https://github.com/wal/kroeber) (R) Shiny app to demonstrate K-Means/PCA clustering of GPS Data
 * [passing-networks](https://github.com/JoGall/passing-networks) (R) Tools to create team passing networks from soccer passing data
@@ -90,6 +89,13 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [StatsBomb\_WomensData](https://github.com/FCrSTATS/StatsBomb_WomensData) (R) Utilising the free women's football data supplied by Statsbomb to help explore and teach football analytics
 * [xyFootyPy](https://github.com/znstrider/xyFootyPy) (Python) Introduction to working with Positional Data - Using RoboCup 2D Simulation Data
 
+## Tools & Projects
+* [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) (Python) Following Messi with TensorFlow and Object Detection
+* [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) (Python) Plotting xy football data in python
+* [Game event Tracker](https://codepen.io/Mcnultyj/live/gdVbyv) 
+* [Expected Goals interactive site](https://torvaney.github.io/projects/xG.html) 
+* [Soccer event logger](https://torvaney.github.io/projects/tracker.html)
+* [Football + Voronoi](http://durtal.github.io/interactives/Football-Voronoi/)
 
 
 ## Twitter Accounts
