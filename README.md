@@ -103,6 +103,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Andre Brener](https://twitter.com/andre_brener)
 * [Eliot McKinley](https://twitter.com/etmckinley)
 * [Garry Gelade](https://twitter.com/GarryGelade)
+* [Karun Singh](https://twitter.com/karun1710)
 * [Luke Bornn](https://twitter.com/LukeBornn)
 * [Mark Taylor](https://twitter.com/MarkTaylor0)
 * [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)
