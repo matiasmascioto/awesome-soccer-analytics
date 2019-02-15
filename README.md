@@ -80,7 +80,6 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Expected-Goals-Model](https://github.com/KubaMichalczyk/Expected-Goals-Model) (R) Expected Goals Model
 * [extending-xG-gain](https://github.com/KubaMichalczyk/extending-xG-gain) (R) An attempt to extend xG gain
 * [Football-crunching](https://github.com/rjtavares/football-crunching) (Python) Some soccer analysis
-* [kroeber](https://github.com/wal/kroeber) (R) Shiny app to demonstrate K-Means/PCA clustering of GPS Data
 * [passing-networks](https://github.com/JoGall/passing-networks) (R) Tools to create team passing networks from soccer passing data
 * [regista](https://github.com/Torvaney/regista) (R) Package for performing some of the common modelling tasks in soccer analytics
 * [simulated-walks](https://github.com/JoGall/simulated-walks) (R) Simulate movement of football players using a random walk rule
