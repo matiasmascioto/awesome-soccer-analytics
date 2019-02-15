@@ -7,7 +7,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Blogs](#blogs)
 * [Companies](#companies)
 * [Events & Conferences](#events--conferences)
-* [Tools & Projects](#tools-projects)
+* [Tools & Projects](#tools--projects)
 * [Twitter Accounts](#twitter-accounts)
 * [Others](#others)
 
