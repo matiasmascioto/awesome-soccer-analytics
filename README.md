@@ -26,18 +26,19 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Proform AFC](https://proformanalytics.wordpress.com/)
 * [Soccermetrics](http://www.soccermetrics.net/blog)
 * [Stats and snakeoil](http://www.statsandsnakeoil.com/)
+* [StatsBomb](https://statsbomb.com/)
 * [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/)
 * [The Last Man Analytics](https://thelastmananalytics.home.blog/)
 * [The Power of Goals](https://thepowerofgoals.blogspot.com/)
-* [WoSo Stats](https://wosostats.wordpress.com/)
 * [Wyscout](https://blog.wyscout.com/)
 
 ## Companies
 ### Data Providers
-* [Datafactory](http://www.datafactory.la/)
+* [DataFactory](http://www.datafactory.la/)
 * [Opta Sports](https://www.optasports.com/)
 * [Sport radar](https://www.sportradar.com/)
-* [STATS](https://www.stats.com/data-science/)
+* [STATS](https://www.stats.com/data-feeds/)
+* [StatsBomb](https://statsbomb.com/data/)
 * [Wyscout](https://wyscout.com/es/)
 
 ### Tracking
