@@ -3,7 +3,6 @@
 A curated list of awesome resources related to *Soccer Analytics*.
 
 ### Table of contents
-
 * [Blogs](#blogs)
 * [Companies](#companies)
 * [Events & Conferences](#events--conferences)
@@ -126,3 +125,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf)
 * [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport)
 * [Expected Goal literature](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit)
+
+
+## Contribute
+Contributions are always welcome! Send me a pull request.
