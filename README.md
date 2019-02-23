@@ -7,6 +7,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Companies](#companies)
 * [Events & Conferences](#events--conferences)
 * [Open Source Libraries](#open-source-libraries)
+* [Podcasts](#podcasts)
 * [Tools & Projects](#tools--projects)
 * [Twitter Accounts](#twitter-accounts)
 * [Miscellaneous](#miscellaneous)
@@ -88,6 +89,10 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [statsbomb\_python](https://github.com/petermckeever/statsbomb_python) (Python) Python Package for using Statsbomb IQ dataset
 * [StatsBomb\_WomensData](https://github.com/FCrSTATS/StatsBomb_WomensData) (R) Utilising the free women's football data supplied by Statsbomb to help explore and teach football analytics
 * [xyFootyPy](https://github.com/znstrider/xyFootyPy) (Python) Introduction to working with Positional Data - Using RoboCup 2D Simulation Data
+
+
+## Podcasts
+* [Three At The Back (By OptaPro)](https://itunes.apple.com/sk/podcast/three-at-the-back/id1143073118?mt=2)
 
 ## Tools & Projects
 * [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) (Python) Following Messi with TensorFlow and Object Detection
