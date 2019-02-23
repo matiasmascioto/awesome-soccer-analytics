@@ -24,6 +24,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Football Science](https://www.footballscience.net/)
 * [Football Data Science](http://business-analytic.co.uk/blog/home-page/)
 * [Karun Singh](https://karun.in/blog/)
+* [OptaPro](https://www.optasportspro.com/news-and-analysis/?_news_category=football)
 * [Proform AFC](https://proformanalytics.wordpress.com/)
 * [Soccermetrics](http://www.soccermetrics.net/blog)
 * [Stats and snakeoil](http://www.statsandsnakeoil.com/)
