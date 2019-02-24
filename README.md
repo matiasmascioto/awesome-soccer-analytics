@@ -121,6 +121,8 @@ A curated list of awesome resources related to *Soccer Analytics*.
 ### Others
 * [Big Data Sports](https://twitter.com/bigdatasport)
 * [danzn1](https://twitter.com/danzn1)
+* [FC Python](https://twitter.com/FC_Python)
+* [FC rSTATS](https://twitter.com/FC_rstats)
 * [Fútbol Avanzado](https://twitter.com/FutbolAvanzado)
 * [Last Row](https://twitter.com/lastrowview)
 * [Predictive Analytics](https://twitter.com/moneyballfutbol)
