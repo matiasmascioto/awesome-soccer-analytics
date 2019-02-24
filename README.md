@@ -68,6 +68,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [MIT Sloan Sports Analytics Conference](http://www.sloansportsconference.com/)
 * [New England Symposium on Statistics in Sports](http://www.nessis.org/)
 * [Sports Analytics World Series](https://www.analyticsinsport.com/)
+* [Sportdata & Performance Forum](https://www.sportdataperformance.com/)
 * [Sports Technology Symposium](https://www.fcbarcelona.com/club/sports-technology-symposium)
 
 ## Open Source Libraries
