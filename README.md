@@ -2,7 +2,7 @@
 
 A curated list of awesome resources related to *Soccer Analytics*.
 
-### Table of contents
+### Contents
 * [Blogs](#blogs)
 * [Companies](#companies)
 * [Events & Conferences](#events--conferences)
@@ -72,32 +72,32 @@ A curated list of awesome resources related to *Soccer Analytics*.
 
 ## Open Source Libraries
 ### Visualisation
-* [ggsoccer](https://github.com/Torvaney/ggsoccer) (R) Plot Opta-style soccer event data in R/ggplot2
-* [PlusMinusModels](https://github.com/tpospisi/PlusMinusModels) (R) This package fits plus-minus models for sports data.
-* [PyFootballPitch](https://github.com/znstrider/PyFootballPitch) (Python) Functions to draw a football pitch in various available styles for matplotlib and bokeh
-* [SBpitch](https://github.com/FCrSTATS/SBpitch) (R) Creates customisable plots of pitches in ggplot2 that allows event data to be plotted on top
-* [soccermatics](https://github.com/JoGall/soccermatics) (R) Tools for visualisation and analysis of soccer spatiotemporal data
-* [Tracking-Data](https://github.com/KubaMichalczyk/Tracking-Data) (R) Plots soccer tracking data
+* [ggsoccer](https://github.com/Torvaney/ggsoccer) - (R) Plot Opta-style soccer event data in R/ggplot2.
+* [PlusMinusModels](https://github.com/tpospisi/PlusMinusModels) - (R) This package fits plus-minus models for sports data.
+* [PyFootballPitch](https://github.com/znstrider/PyFootballPitch) - (Python) Functions to draw a football pitch in various available styles for matplotlib and bokeh.
+* [SBpitch](https://github.com/FCrSTATS/SBpitch) - (R) Creates customisable plots of pitches in ggplot2 that allows event data to be plotted on top.
+* [soccermatics](https://github.com/JoGall/soccermatics) - (R) Tools for visualisation and analysis of soccer spatiotemporal data.
+* [Tracking-Data](https://github.com/KubaMichalczyk/Tracking-Data) - (R) Plots soccer tracking data.
 
 ### Others
-* [Expected-Goals-Model](https://github.com/KubaMichalczyk/Expected-Goals-Model) (R) Expected Goals Model
-* [extending-xG-gain](https://github.com/KubaMichalczyk/extending-xG-gain) (R) An attempt to extend xG gain
-* [Football-crunching](https://github.com/rjtavares/football-crunching) (Python) Some soccer analysis
-* [passing-networks](https://github.com/JoGall/passing-networks) (R) Tools to create team passing networks from soccer passing data
-* [regista](https://github.com/Torvaney/regista) (R) Package for performing some of the common modelling tasks in soccer analytics
-* [simulated-walks](https://github.com/JoGall/simulated-walks) (R) Simulate movement of football players using a random walk rule
-* [statsbomb-parser](https://github.com/imrankhan17/statsbomb-parser) (Python) Convert StatsBomb's JSON data into easy-to-use CSV format
-* [statsbomb\_python](https://github.com/petermckeever/statsbomb_python) (Python) Python Package for using Statsbomb IQ dataset
-* [StatsBomb\_WomensData](https://github.com/FCrSTATS/StatsBomb_WomensData) (R) Utilising the free women's football data supplied by Statsbomb to help explore and teach football analytics
-* [xyFootyPy](https://github.com/znstrider/xyFootyPy) (Python) Introduction to working with Positional Data - Using RoboCup 2D Simulation Data
+* [Expected-Goals-Model](https://github.com/KubaMichalczyk/Expected-Goals-Model) - (R) Expected Goals Model.
+* [extending-xG-gain](https://github.com/KubaMichalczyk/extending-xG-gain) - (R) An attempt to extend xG gain.
+* [Football-crunching](https://github.com/rjtavares/football-crunching) - (Python) Some soccer analysis.
+* [passing-networks](https://github.com/JoGall/passing-networks) - (R) Tools to create team passing networks from soccer passing data.
+* [regista](https://github.com/Torvaney/regista) - (R) Package for performing some of the common modelling tasks in soccer analytics.
+* [simulated-walks](https://github.com/JoGall/simulated-walks) - (R) Simulate movement of football players using a random walk rule.
+* [statsbomb-parser](https://github.com/imrankhan17/statsbomb-parser) - (Python) Convert StatsBomb's JSON data into easy-to-use CSV format.
+* [statsbomb\_python](https://github.com/petermckeever/statsbomb_python) - (Python) Python Package for using Statsbomb IQ dataset.
+* [StatsBomb\_WomensData](https://github.com/FCrSTATS/StatsBomb_WomensData) - (R) Utilising the free women's football data supplied by Statsbomb to help explore and teach football analytics.
+* [xyFootyPy](https://github.com/znstrider/xyFootyPy) - (Python) Introduction to working with Positional Data - Using RoboCup 2D Simulation Data.
 
 
 ## Podcasts
 * [Three At The Back (By OptaPro)](https://itunes.apple.com/sk/podcast/three-at-the-back/id1143073118?mt=2)
 
 ## Tools & Projects
-* [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) (Python) Following Messi with TensorFlow and Object Detection
-* [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) (Python) Plotting xy football data in python
+* [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) - (Python) Following Messi with TensorFlow and Object Detection.
+* [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) - (Python) Plotting xy football data in python.
 * [Game event Tracker](https://codepen.io/Mcnultyj/live/gdVbyv) 
 * [Expected Goals interactive site](https://torvaney.github.io/projects/xG.html) 
 * [Soccer event logger](https://torvaney.github.io/projects/tracker.html)
