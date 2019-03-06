@@ -4,6 +4,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 
 ### Contents
 * [Blogs](#blogs)
+* [Books](#books)
 * [Companies](#companies)
 * [Events & Conferences](#events--conferences)
 * [Open Source Libraries](#open-source-libraries)
@@ -23,6 +24,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Football Crunching](https://medium.com/football-crunching)
 * [Football Science](https://www.footballscience.net/)
 * [Football Data Science](http://business-analytic.co.uk/blog/home-page/)
+* [G.C. Analytics](https://www.gcanalytics.net/)
 * [Karun Singh](https://karun.in/blog/)
 * [OptaPro](https://www.optasportspro.com/news-and-analysis/?_news_category=football)
 * [Proform AFC](https://proformanalytics.wordpress.com/)
@@ -33,6 +35,9 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [The Last Man Analytics](https://thelastmananalytics.home.blog/)
 * [The Power of Goals](https://thepowerofgoals.blogspot.com/)
 * [Wyscout](https://blog.wyscout.com/)
+
+## Books
+* [Soccermatics: Mathematical Adventures in the Beautiful Game](https://www.amazon.com/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142)
 
 ## Companies
 ### Data Providers
