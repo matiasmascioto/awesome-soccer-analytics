@@ -53,6 +53,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [ChyronHego](https://chyronhego.com/)
 * [STATS SportVU](https://www.stats.com/sportvu-football/)
 * [Kinexon](https://kinexon-sports.com/)
+* [Oliver](https://tryoliver.com/)
 
 
 ### Video Analysis - Performance Analysis
