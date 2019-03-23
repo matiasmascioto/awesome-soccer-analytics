@@ -26,6 +26,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Football Data Science](http://business-analytic.co.uk/blog/home-page/)
 * [G.C. Analytics](https://www.gcanalytics.net/)
 * [Karun Singh](https://karun.in/blog/)
+* [North Yard Analytics](https://www.northyardanalytics.com/blog/)
 * [OptaPro](https://www.optasportspro.com/news-and-analysis/?_news_category=football)
 * [Proform AFC](https://proformanalytics.wordpress.com/)
 * [Soccermetrics](http://www.soccermetrics.net/blog)
@@ -136,6 +137,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 ## Miscellaneous
 * [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/)
 * [FIFA EPTS (Electronic Performance and Tracking Systems)](https://football-technology.fifa.com/en/media-tiles/epts/)
+* [Football/soccer data analysts with publicly available work](https://docs.google.com/spreadsheets/d/1wjMVOpupmcF4hEG7PO4lY6l2mKsldGsnkyAULQwyAp8/edit?usp=sharing)
 * [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf)
 * [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport)
 * [Expected Goal literature](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit)
