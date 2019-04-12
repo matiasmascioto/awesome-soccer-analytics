@@ -115,6 +115,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 ## Twitter Accounts
 ### Data Scientists - Data Analysts
 * [Andre Brener](https://twitter.com/andre_brener)
+* [Dan Altman](https://twitter.com/NYAsports)
 * [Eliot McKinley](https://twitter.com/etmckinley)
 * [Garry Gelade](https://twitter.com/GarryGelade)
 * [Karun Singh](https://twitter.com/karun1710)
