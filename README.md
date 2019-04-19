@@ -11,6 +11,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Podcasts](#podcasts)
 * [Tools & Projects](#tools--projects)
 * [Twitter Accounts](#twitter-accounts)
+* [Videos](#videos)
 * [Miscellaneous](#miscellaneous)
 
 
@@ -72,6 +73,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html)
 * [CASSIS](http://cascadiasports.com/)
 * [Global Training Camp](http://gtc.analyticsinsport.com/)
+* [Great Lakes Analytics Conference](https://www.uwsp.edu/cols/Pages/GLAC/analyticsconference.aspx)
 * [MIT Sloan Sports Analytics Conference](http://www.sloansportsconference.com/)
 * [New England Symposium on Statistics in Sports](http://www.nessis.org/)
 * [Sports Analytics World Series](https://www.analyticsinsport.com/)
@@ -135,6 +137,9 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Fútbol Avanzado](https://twitter.com/FutbolAvanzado)
 * [Last Row](https://twitter.com/lastrowview)
 * [Predictive Analytics](https://twitter.com/moneyballfutbol)
+
+## Videos
+* [Football Player Ratings (YouTube channel)](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA)
 
 ## Miscellaneous
 * [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/)
