@@ -1,6 +1,6 @@
 # Awesome Soccer Analytics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources related to *Soccer Analytics*.
+A curated list of awesome resources related to *Soccer Analytics* in *english* and *spanish*.
 
 ### Contents
 * [Blogs](#blogs)
