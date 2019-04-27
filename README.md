@@ -6,6 +6,7 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [Blogs](#blogs)
 * [Books](#books)
 * [Companies](#companies)
+* [Education](#education)
 * [Events & Conferences](#events--conferences)
 * [Open Source Libraries](#open-source-libraries)
 * [Podcasts](#podcasts)
@@ -68,6 +69,8 @@ A curated list of awesome resources related to *Soccer Analytics*.
 * [SICO](https://www.sicostats.com/)
 * [nacsport](https://nacsport.com/)
 
+## Education
+* [Máster Big Data Deportivo](https://www.campusbigdata.com/master-en-big-data-deportivo): Certified by [UCAM](https://www.ucam.edu/).
 
 ## Events & Conferences
 * [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html)
