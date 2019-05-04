@@ -3,7 +3,7 @@
 A curated list of awesome resources related to *Soccer Analytics* in *english* and *spanish*.
 
 ### Contents
-* [Blogs](#blogs)
+* [Blogs](#blogs--websites)
 * [Books](#books)
 * [Companies](#companies)
 * [Education](#education)
@@ -16,7 +16,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Miscellaneous](#miscellaneous)
 
 
-## Blogs
+## Blogs & Websites
 * [2+2=11](https://2plus2equals11.com/)
 * [All Things Football](https://allthingsfootballonline.blogspot.com/)
 * [American Soccer Analysis](https://www.americansocceranalysis.com/)
@@ -26,6 +26,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Football Crunching](https://medium.com/football-crunching)
 * [Football Science](https://www.footballscience.net/)
 * [Football Data Science](http://business-analytic.co.uk/blog/home-page/)
+* [Football Whispers](https://www.footballwhispers.com/)
 * [G.C. Analytics](https://www.gcanalytics.net/)
 * [Karun Singh](https://karun.in/blog/)
 * [North Yard Analytics](https://www.northyardanalytics.com/blog/)
@@ -126,6 +127,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Karun Singh](https://twitter.com/karun1710)
 * [Luke Bornn](https://twitter.com/LukeBornn)
 * [Mark Taylor](https://twitter.com/MarkTaylor0)
+* [Mark Thompson](https://twitter.com/EveryTeam_Mark)
 * [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)
 * [Paul Power](https://twitter.com/counterattack9)
 * [Paul Riley](https://twitter.com/footballfactman)
