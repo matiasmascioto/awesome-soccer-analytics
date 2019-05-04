@@ -3,7 +3,7 @@
 A curated list of awesome resources related to *Soccer Analytics* in *english* and *spanish*.
 
 ### Contents
-* [Blogs](#blogs--websites)
+* [Blogs & Websites](#blogs--websites)
 * [Books](#books)
 * [Companies](#companies)
 * [Education](#education)
