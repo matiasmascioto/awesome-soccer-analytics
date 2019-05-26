@@ -42,11 +42,13 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Books
 * [Soccermatics: Mathematical Adventures in the Beautiful Game](https://www.amazon.com/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142)
+* [Football Hackers: The Science and Art of a Data Revolution](https://www.amazon.com/Football-Hackers-Science-Data-Revolution-ebook/dp/B07NQM3YGK)
 
 ## Companies
 ### Data Providers
 * [DataFactory](http://www.datafactory.la/)
 * [Opta Sports](https://www.optasports.com/)
+* [SPORTLOGiQ](https://sportlogiq.com/en/)
 * [Sport radar](https://www.sportradar.com/)
 * [STATS](https://www.stats.com/data-feeds/)
 * [StatsBomb](https://statsbomb.com/data/)
