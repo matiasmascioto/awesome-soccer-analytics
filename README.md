@@ -110,6 +110,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Podcasts
 * [Three At The Back (By OptaPro)](https://itunes.apple.com/sk/podcast/three-at-the-back/id1143073118?mt=2)
+* [Differentgame - The Football Analytics Podcast](https://podcasts.apple.com/pk/podcast/differentgame-the-football-analytics-podcast/id1226164447?mt=2)
 
 ## Tools & Projects
 * [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) - (Python) Following Messi with TensorFlow and Object Detection.
