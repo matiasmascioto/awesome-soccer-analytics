@@ -2,6 +2,9 @@
 
 A curated list of awesome resources related to *Soccer Analytics* in *english* and *spanish*.
 
+:soccer::soccer:: 100% soccer
+:soccer::tennis:: Soccer and other sports
+
 ### Contents
 * [Blogs & Websites](#blogs--websites)
 * [Books](#books)
@@ -17,7 +20,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 
 ## Blogs & Websites
-* [2+2=11](https://2plus2equals11.com/)
+* :soccer::soccer::[2+2=11](https://2plus2equals11.com/)
 * [All Things Football](https://allthingsfootballonline.blogspot.com/)
 * [American Soccer Analysis](https://www.americansocceranalysis.com/)
 * [Analítica Sports](http://www.analiticasports.com)
