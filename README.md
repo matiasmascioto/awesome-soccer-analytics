@@ -6,6 +6,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Blogs & Websites](#blogs--websites)
 * [Books](#books)
 * [Companies](#companies)
+* [Data](#data)
 * [Education](#education)
 * [Events & Conferences](#events--conferences)
 * [Open Source Libraries](#open-source-libraries)
@@ -71,6 +72,27 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Olocip](http://www.olocip.com/)
 * [SICO](https://www.sicostats.com/)
 * [nacsport](https://nacsport.com/)
+
+## Data
+### Datasets
+* [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10): Free - .sqlite - 25k+ matches, players & teams attributes for European Professional Football
+* [engsoccerdata](https://github.com/jalapic/engsoccerdata): Free - .csv - English and European soccer results 1871-2017
+* [football.csv](https://footballcsv.github.io/): Free - .csv - Historical soccer results in .csv format
+* [football.db](http://openfootball.github.io/): Free - database - A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets).
+* [PlusMinusData](https://github.com/fmatano/PlusMinusData): Free - R package - Play by play data from espn.com and sofifa.com
+* [Rec.Sport.Soccer Statistics Foundation](http://www.rsssf.com/nersssf.html): Free- database - Historical league tables and football results
+* [RoboCup Soccer Simulator](http://oliver.obst.eu/data/RoboCupSimData/overview.html): Free - .csv - RoboCup Soccer Simulator Data
+* [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/): Free - .csv - Dataset of elite soccer player movements and corresponding videos
+* [StatsBomb Open Data](https://github.com/statsbomb/open-data): - Free - JSON - Competitions and matches (with events)
+* [wosostats](https://github.com/amj2012/wosostats): Free - .csv - Data about women's soccer from around the world.
+
+### APIs
+* [BDFUTBOL](https://www.bdfutbol.com/es/c/api2.html): Paid - Historical football results, players and teams data
+* [ClubElo](http://clubelo.com/API): Free - Historical ELO rankings for european soccer.
+
+### Other resources
+* [Awesome Footbal](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets.
+* [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
 
 ## Education
 * [Máster Big Data Deportivo](https://www.campusbigdata.com/master-en-big-data-deportivo): Certified by [UCAM](https://www.ucam.edu/).
