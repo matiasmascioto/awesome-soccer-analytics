@@ -42,8 +42,10 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Wyscout](https://blog.wyscout.com/)
 
 ## Books
-* [Soccermatics: Mathematical Adventures in the Beautiful Game](https://www.amazon.com/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142)
 * [Football Hackers: The Science and Art of a Data Revolution](https://www.amazon.com/Football-Hackers-Science-Data-Revolution-ebook/dp/B07NQM3YGK)
+* [Soccernomics](https://www.amazon.com/Soccernomics-England-Germany-Australia-Destined/dp/1568584814)
+* [Soccermatics: Mathematical Adventures in the Beautiful Game](https://www.amazon.com/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142)
+* [The Numbers Game: Why Everything You Know about Soccer Is Wrong](https://www.amazon.es/Numbers-Game-Everything-about-Soccer/dp/0143124560)
 
 ## Companies
 ### Data Providers
@@ -131,6 +133,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 
 ## Podcasts
+* [Big Data Sports](https://podcasts.apple.com/us/podcast/big-data-sports/id1377252519)
 * [Three At The Back (By OptaPro)](https://itunes.apple.com/sk/podcast/three-at-the-back/id1143073118?mt=2)
 * [Differentgame - The Football Analytics Podcast](https://podcasts.apple.com/pk/podcast/differentgame-the-football-analytics-podcast/id1226164447?mt=2)
 
