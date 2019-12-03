@@ -65,6 +65,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 
 ### Video Analysis - Performance Analysis
+* [dataFootball](https://www.bdatafutbol.com/)
 * [ERIC Sports](http://www.ericsports.net/)
 * [hudl](https://www.hudl.com/)
 * [LBi Dynasty](http://www.lbidynasty.com/)
