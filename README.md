@@ -78,6 +78,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Data
 ### Datasets
+* [A public data set of spatio-temporal match events in soccer competitions]
 * [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10): Free - .sqlite - 25k+ matches, players & teams attributes for European Professional Football
 * [engsoccerdata](https://github.com/jalapic/engsoccerdata): Free - .csv - English and European soccer results 1871-2017
 * [football.csv](https://footballcsv.github.io/): Free - .csv - Historical soccer results in .csv format
@@ -103,6 +104,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 ## Events & Conferences
 * [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html)
 * [CASSIS](http://cascadiasports.com/)
+* [Football Data International Forum](https://eniit.es/football-data-international-forum/)
 * [Global Training Camp](http://gtc.analyticsinsport.com/)
 * [Great Lakes Analytics Conference](https://www.uwsp.edu/cols/Pages/GLAC/analyticsconference.aspx)
 * [MIT Sloan Sports Analytics Conference](http://www.sloansportsconference.com/)
@@ -117,6 +119,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [PlusMinusModels](https://github.com/tpospisi/PlusMinusModels) - (R) This package fits plus-minus models for sports data.
 * [PyFootballPitch](https://github.com/znstrider/PyFootballPitch) - (Python) Functions to draw a football pitch in various available styles for matplotlib and bokeh.
 * [SBpitch](https://github.com/FCrSTATS/SBpitch) - (R) Creates customisable plots of pitches in ggplot2 that allows event data to be plotted on top.
+* [socceraction](https://github.com/ML-KULeuven/socceraction): (Python) - Convert existing soccer event stream data to SPADL and value player actions
 * [soccermatics](https://github.com/JoGall/soccermatics) - (R) Tools for visualisation and analysis of soccer spatiotemporal data.
 * [Tracking-Data](https://github.com/KubaMichalczyk/Tracking-Data) - (R) Plots soccer tracking data.
 
