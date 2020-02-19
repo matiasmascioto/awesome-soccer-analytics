@@ -78,7 +78,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Data
 ### Datasets
-* [A public data set of spatio-temporal match events in soccer competitions]
+* [A public data set of spatio-temporal match events in soccer competitions](https://doi.org/11.6084/m9.figshare.c.4415000) : Free - .json - UEFA Euro Cup 2016 - La Liga, Serie A, Bundesliga, Premier League, Ligue 1, FIFA World Cup 2018
 * [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10): Free - .sqlite - 25k+ matches, players & teams attributes for European Professional Football
 * [engsoccerdata](https://github.com/jalapic/engsoccerdata): Free - .csv - English and European soccer results 1871-2017
 * [football.csv](https://footballcsv.github.io/): Free - .csv - Historical soccer results in .csv format
@@ -134,6 +134,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [statsbomb\_python](https://github.com/petermckeever/statsbomb_python) - (Python) Python Package for using Statsbomb IQ dataset.
 * [StatsBomb\_WomensData](https://github.com/FCrSTATS/StatsBomb_WomensData) - (R) Utilising the free women's football data supplied by Statsbomb to help explore and teach football analytics.
 * [xyFootyPy](https://github.com/znstrider/xyFootyPy) - (Python) Introduction to working with Positional Data - Using RoboCup 2D Simulation Data.
+* [football-graphs](https://github.com/rodmoioliveira/football-graphs) - (Clojure) Some visualizations on passing networks
 
 
 ## Podcasts
@@ -145,8 +146,8 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 ## Tools & Projects
 * [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) - (Python) Following Messi with TensorFlow and Object Detection.
 * [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) - (Python) Plotting xy football data in python.
-* [Game event Tracker](https://codepen.io/Mcnultyj/live/gdVbyv) 
-* [Expected Goals interactive site](https://torvaney.github.io/projects/xG.html) 
+* [Game event Tracker](https://codepen.io/Mcnultyj/live/gdVbyv)
+* [Expected Goals interactive site](https://torvaney.github.io/projects/xG.html)
 * [Soccer event logger](https://torvaney.github.io/projects/tracker.html)
 * [Football + Voronoi](http://durtal.github.io/interactives/Football-Voronoi/)
 
