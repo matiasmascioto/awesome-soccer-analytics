@@ -78,7 +78,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Data
 ### Datasets
-* [A public data set of spatio-temporal match events in soccer competitions](https://doi.org/11.6084/m9.figshare.c.4415000) : Free - .json - UEFA Euro Cup 2016 - La Liga, Serie A, Bundesliga, Premier League, Ligue 1, FIFA World Cup 2018
+* [A public data set of spatio-temporal match events in soccer competitions](https://figshare.com/collections/Soccer_match_event_dataset/4415000) : Free - .json - UEFA Euro Cup 2016 - La Liga, Serie A, Bundesliga, Premier League, Ligue 1, FIFA World Cup 2018
 * [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10): Free - .sqlite - 25k+ matches, players & teams attributes for European Professional Football
 * [engsoccerdata](https://github.com/jalapic/engsoccerdata): Free - .csv - English and European soccer results 1871-2017
 * [football.csv](https://footballcsv.github.io/): Free - .csv - Historical soccer results in .csv format
