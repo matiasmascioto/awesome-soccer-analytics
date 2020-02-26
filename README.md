@@ -72,9 +72,10 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [LongoMatch](https://longomatch.com/es/)
 * [MEDIACOACH](https://portal.mediacoach.es/)
 * [Metrica Sports](https://metrica-sports.com/)
+* [nacsport](https://nacsport.com/)
 * [Olocip](http://www.olocip.com/)
 * [SICO](https://www.sicostats.com/)
-* [nacsport](https://nacsport.com/)
+* [Wise](http://app.wise4sports.com/home/)
 
 ## Data
 ### Datasets
