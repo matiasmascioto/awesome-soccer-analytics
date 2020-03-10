@@ -2,6 +2,9 @@
 
 A curated list of awesome resources related to *Soccer Analytics* in *english* and *spanish*.
 
+- References:
+	- *S+: Soccer and other sports. The resource is not just about soccer.*
+
 ### Contents
 * [Blogs & Websites](#blogs--websites)
 * [Books](#books)
@@ -21,7 +24,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [2+2=11](https://2plus2equals11.com/)
 * [All Things Football](https://allthingsfootballonline.blogspot.com/)
 * [American Soccer Analysis](https://www.americansocceranalysis.com/)
-* [Analítica Sports](http://www.analiticasports.com)
+* [Analítica Sports](http://www.analiticasports.com) (S+)
 * [differentgame](https://differentgame.wordpress.com/)
 * [EightyFivePoints](http://eightyfivepoints.blogspot.com/)
 * [Football Crunching](https://medium.com/football-crunching)
@@ -37,7 +40,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Stats and snakeoil](http://www.statsandsnakeoil.com/)
 * [StatsBomb](https://statsbomb.com/)
 * [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/)
-* [The Last Man Analytics](https://thelastmananalytics.home.blog/)
+* [The Last Man Analytics](https://thelastmananalytics.home.blog/) (S+)
 * [The Power of Goals](https://thepowerofgoals.blogspot.com/)
 * [Wyscout](https://blog.wyscout.com/)
 
@@ -49,33 +52,33 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Companies
 ### Data Providers
-* [DataFactory](http://www.datafactory.la/)
-* [Opta Sports](https://www.optasports.com/)
-* [SPORTLOGiQ](https://sportlogiq.com/en/)
-* [Sport radar](https://www.sportradar.com/)
-* [STATS](https://www.stats.com/data-feeds/)
+* [DataFactory](http://www.datafactory.la/) (S+)
+* [Opta Sports](https://www.optasports.com/) (S+)
+* [SPORTLOGiQ](https://sportlogiq.com/en/) (S+)
+* [Sport radar](https://www.sportradar.com/) (S+)
+* [STATS](https://www.stats.com/data-feeds/) (S+)
 * [StatsBomb](https://statsbomb.com/data/)
 * [Wyscout](https://wyscout.com/es/)
 
 ### Tracking
 * [ChyronHego](https://chyronhego.com/)
 * [STATS SportVU](https://www.stats.com/sportvu-football/)
-* [Kinexon](https://kinexon-sports.com/)
+* [Kinexon](https://kinexon-sports.com/) (S+)
 * [Oliver](https://tryoliver.com/)
 
 
 ### Video Analysis - Performance Analysis
 * [dataFootball](https://www.bdatafutbol.com/)
-* [ERIC Sports](http://www.ericsports.net/)
-* [hudl](https://www.hudl.com/)
-* [LBi Dynasty](http://www.lbidynasty.com/)
-* [LongoMatch](https://longomatch.com/es/)
+* [ERIC Sports](http://www.ericsports.net/) (S+)
+* [hudl](https://www.hudl.com/) (S+)
+* [LBi Dynasty](http://www.lbidynasty.com/) (S+)
+* [LongoMatch](https://longomatch.com/es/) (S+)
 * [MEDIACOACH](https://portal.mediacoach.es/)
 * [Metrica Sports](https://metrica-sports.com/)
-* [nacsport](https://nacsport.com/)
-* [Olocip](http://www.olocip.com/)
+* [nacsport](https://nacsport.com/) (S+)
+* [Olocip](http://www.olocip.com/) (S+)
 * [SICO](https://www.sicostats.com/)
-* [Wise](http://app.wise4sports.com/home/)
+* [Wise](http://app.wise4sports.com/home/) (S+)
 
 ## Data
 ### Datasets
@@ -139,10 +142,10 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 
 ## Podcasts
-* [Big Data Sports](https://podcasts.apple.com/us/podcast/big-data-sports/id1377252519)
+* [Big Data Sports](https://podcasts.apple.com/us/podcast/big-data-sports/id1377252519) (S+)
 * [Three At The Back (By OptaPro)](https://itunes.apple.com/sk/podcast/three-at-the-back/id1143073118?mt=2)
 * [Differentgame - The Football Analytics Podcast](https://podcasts.apple.com/pk/podcast/differentgame-the-football-analytics-podcast/id1226164447?mt=2)
-* [Expected Value](https://podcasts.apple.com/us/podcast/expected-value/id1477998252)
+* [Expected Value](https://podcasts.apple.com/us/podcast/expected-value/id1477998252) (S+)
 
 ## Tools & Projects
 * [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) - (Python) Following Messi with TensorFlow and Object Detection.
