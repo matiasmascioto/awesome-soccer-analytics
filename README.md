@@ -56,7 +56,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Opta Sports](https://www.optasports.com/) (S+)
 * [SPORTLOGiQ](https://sportlogiq.com/en/) (S+)
 * [Sport radar](https://www.sportradar.com/) (S+)
-* [STATS](https://www.stats.com/data-feeds/) (S+)
+* [STATS PERFORM](https://www.statsperform.com/) (S+)
 * [StatsBomb](https://statsbomb.com/data/)
 * [Wyscout](https://wyscout.com/es/)
 
