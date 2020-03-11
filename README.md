@@ -147,6 +147,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Big Data Sports](https://podcasts.apple.com/us/podcast/big-data-sports/id1377252519) (S+)
 * [Differentgame - The Football Analytics Podcast](https://podcasts.apple.com/pk/podcast/differentgame-the-football-analytics-podcast/id1226164447?mt=2)
 * [Expected Value](https://podcasts.apple.com/us/podcast/expected-value/id1477998252) (S+)
+* [Measurables](https://www.measurablespod.com/) (S+)
 * [Three At The Back (By OptaPro)](https://itunes.apple.com/sk/podcast/three-at-the-back/id1143073118?mt=2)
 
 ## Tools & Projects
