@@ -42,6 +42,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/)
 * [The Last Man Analytics](https://thelastmananalytics.home.blog/) (S+)
 * [The Power of Goals](https://thepowerofgoals.blogspot.com/)
+* [Total Football Analysis](https://totalfootballanalysis.com/)
 * [Wyscout](https://blog.wyscout.com/)
 
 ## Books
