@@ -112,11 +112,14 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Football Data International Forum](https://eniit.es/football-data-international-forum/)
 * [Global Training Camp](http://gtc.analyticsinsport.com/)
 * [Great Lakes Analytics Conference](https://www.uwsp.edu/cols/Pages/GLAC/analyticsconference.aspx)
+* [MathSport International](http://www.mathsportinternational.com/)
 * [MIT Sloan Sports Analytics Conference](http://www.sloansportsconference.com/)
 * [New England Symposium on Statistics in Sports](http://www.nessis.org/)
+* [OptaPro Analytics Forum](https://www.optasportspro.com/events/)
 * [Sports Analytics World Series](https://www.analyticsinsport.com/)
 * [Sportdata & Performance Forum](https://www.sportdataperformance.com/)
 * [Sports Technology Symposium](https://www.fcbarcelona.com/club/sports-technology-symposium)
+* [StatsBomb Conference](https://statsbomb.com/conference/)
 
 ## Open Source Libraries
 ### Visualisation
