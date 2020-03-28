@@ -190,6 +190,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Videos
 * [Football Player Ratings (YouTube channel)](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA)
+* [Friends of Tracking (YouTube channel)](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w/featured)
 
 ## Miscellaneous
 * [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/)
