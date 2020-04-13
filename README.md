@@ -89,6 +89,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [engsoccerdata](https://github.com/jalapic/engsoccerdata): Free - .csv - English and European soccer results 1871-2017
 * [football.csv](https://footballcsv.github.io/): Free - .csv - Historical soccer results in .csv format
 * [football.db](http://openfootball.github.io/): Free - database - A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets).
+* [Metrica Sports sample tracking and event data](https://github.com/metrica-sports/sample-data): Free - .csv - Sample tracking and event data.
 * [PlusMinusData](https://github.com/fmatano/PlusMinusData): Free - R package - Play by play data from espn.com and sofifa.com
 * [Rec.Sport.Soccer Statistics Foundation](http://www.rsssf.com/nersssf.html): Free- database - Historical league tables and football results
 * [RoboCup Soccer Simulator](http://oliver.obst.eu/data/RoboCupSimData/overview.html): Free - .csv - RoboCup Soccer Simulator Data
@@ -107,6 +108,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Education
 * [Máster Big Data Deportivo](https://www.campusbigdata.com/master-en-big-data-deportivo): Certified by [UCAM](https://www.ucam.edu/).
+* [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook): Getting started with soccer analytics
 
 ## Events & Conferences
 * [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html)
