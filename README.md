@@ -109,6 +109,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 ## Education
 * [Máster Big Data Deportivo](https://www.campusbigdata.com/master-en-big-data-deportivo): Certified by [UCAM](https://www.ucam.edu/).
 * [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook): Getting started with soccer analytics
+* [StatsBomb Courses](https://courses.statsbomb.com/: StatsBomb courses are delivered by video and webinar
 
 ## Events & Conferences
 * [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html)
