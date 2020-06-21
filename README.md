@@ -160,11 +160,14 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Tools & Projects
 * [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) - (Python) Following Messi with TensorFlow and Object Detection.
-* [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) - (Python) Plotting xy football data in python.
-* [Game event Tracker](https://codepen.io/Mcnultyj/live/gdVbyv)
-* [Expected Goals interactive site](https://torvaney.github.io/projects/xG.html)
-* [Soccer event logger](https://torvaney.github.io/projects/tracker.html)
+* [Expected Goals interactive site](https://torvaney.github.io/projects/xG.htm
 * [Football + Voronoi](http://durtal.github.io/interactives/Football-Voronoi/)
+* [Game event Tracker](https://codepen.io/Mcnultyj/live/gdVbyv)
+l)
+* [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) - (Python) Plotting xy football data in python.
+* [PySport](https://pysport.org/)
+* [Soccer event logger](https://torvaney.github.io/projects/tracker.html)
+
 
 
 ## Twitter Accounts
