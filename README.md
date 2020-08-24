@@ -134,6 +134,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [PyFootballPitch](https://github.com/znstrider/PyFootballPitch) - (Python) Functions to draw a football pitch in various available styles for matplotlib and bokeh.
 * [SBpitch](https://github.com/FCrSTATS/SBpitch) - (R) Creates customisable plots of pitches in ggplot2 that allows event data to be plotted on top.
 * [socceraction](https://github.com/ML-KULeuven/socceraction): (Python) - Convert existing soccer event stream data to SPADL and value player actions
+* [soccerAnimate](https://github.com/Dato-Futbol/soccerAnimate): (R) - An R package to create 2D animations of soccer tracking data
 * [soccermatics](https://github.com/JoGall/soccermatics) - (R) Tools for visualisation and analysis of soccer spatiotemporal data.
 * [Tracking-Data](https://github.com/KubaMichalczyk/Tracking-Data) - (R) Plots soccer tracking data.
 
@@ -195,6 +196,7 @@ l)
 * [Fútbol Avanzado](https://twitter.com/FutbolAvanzado)
 * [Last Row](https://twitter.com/lastrowview)
 * [Predictive Analytics](https://twitter.com/moneyballfutbol)
+* [The xG Philosophy](https://twitter.com/xGPhilosophy)
 
 ## Videos
 * [Football Player Ratings (YouTube channel)](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA)
