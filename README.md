@@ -72,6 +72,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Analytics FC](http://analyticsfc.co.uk/)
 * [dataFootball](https://www.bdatafutbol.com/)
 * [ERIC Sports](http://www.ericsports.net/) (S+)
+* [Futbolytics](https://futbolytics.cl/)
 * [hudl](https://www.hudl.com/) (S+)
 * [LBi Dynasty](http://www.lbidynasty.com/) (S+)
 * [LongoMatch](https://longomatch.com/es/) (S+)
@@ -129,6 +130,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Open Source Libraries
 ### Visualisation
+* [BirdsPyView](https://github.com/rjtavares/BirdsPyView): (Python) A Streamlit app to transform perspective of an image to a top-down view by identifying a rectangle on the ground
 * [ggsoccer](https://github.com/Torvaney/ggsoccer) - (R) Plot Opta-style soccer event data in R/ggplot2.
 * [PlusMinusModels](https://github.com/tpospisi/PlusMinusModels) - (R) This package fits plus-minus models for sports data.
 * [PyFootballPitch](https://github.com/znstrider/PyFootballPitch) - (Python) Functions to draw a football pitch in various available styles for matplotlib and bokeh.
