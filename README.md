@@ -141,6 +141,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Tracking-Data](https://github.com/KubaMichalczyk/Tracking-Data) - (R) Plots soccer tracking data.
 
 ### Others
+* [Codeball](https://codeball.metrica-sports.com/) - (Python) Data driven tactical and video analysis of soccer games.
 * [Expected-Goals-Model](https://github.com/KubaMichalczyk/Expected-Goals-Model) - (R) Expected Goals Model.
 * [extending-xG-gain](https://github.com/KubaMichalczyk/extending-xG-gain) - (R) An attempt to extend xG gain.
 * [Football-crunching](https://github.com/rjtavares/football-crunching) - (Python) Some soccer analysis.
