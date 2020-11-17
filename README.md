@@ -172,6 +172,7 @@ l)
 * [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) - (Python) Plotting xy football data in python.
 * [PySport](https://pysport.org/)
 * [Soccer event logger](https://torvaney.github.io/projects/tracker.html)
+* [Last season comparison](https://compare-last-season.netlify.app/) - Last season comparison tool. [Source code](https://github.com/nurgasemetey/compare-last-season) 
 
 
 
