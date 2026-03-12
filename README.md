@@ -82,6 +82,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Olocip](http://www.olocip.com/) (S+)
 * [SICO](https://www.sicostats.com/)
 * [Wise](http://app.wise4sports.com/home/) (S+)
+* [WagerBase](https://wagerbase.io/) - Football predictions platform tracking pre-match odds movement across 63 bookmakers. Steam moves detection, xG predictions, and accumulator builder.
 
 ## Data
 ### Datasets
