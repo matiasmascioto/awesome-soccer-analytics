@@ -164,6 +164,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Three At The Back (By OptaPro)](https://itunes.apple.com/sk/podcast/three-at-the-back/id1143073118?mt=2)
 
 ## Tools & Projects
+* [CURSD](https://cursd.com) - Cross-sport Luck Index ranking teams by how much luck explains their results, using xG, expected points (Poisson simulation), finishing quality, and defensive luck signals. Covers EPL, La Liga, and Ligue 1. (S+)
 * [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) - (Python) Following Messi with TensorFlow and Object Detection.
 * [Expected Goals interactive site](https://torvaney.github.io/projects/xG.htm
 * [Football + Voronoi](http://durtal.github.io/interactives/Football-Voronoi/)
