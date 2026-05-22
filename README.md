@@ -112,6 +112,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Posgrado en Sports Analytics](https://www.talent.upc.edu/esp/estudis/formacio/curs/303600/postgrau-sports-analytics/): Universitat Politècnica de Catalunya
 * [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook): Getting started with soccer analytics
 * [StatsBomb Courses](https://courses.statsbomb.com/: StatsBomb courses are delivered by video and webinar
+* [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/cloud-analytics) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Events & Conferences
 * [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html)
