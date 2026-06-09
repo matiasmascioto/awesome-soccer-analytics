@@ -102,6 +102,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 ### APIs
 * [BDFUTBOL](https://www.bdfutbol.com/es/c/api2.html): Paid - Historical football results, players and teams data
 * [ClubElo](http://clubelo.com/API): Free - Historical ELO rankings for european soccer.
+* [World Cup 2026 Tour Public API](https://ay-worldcup2026.zeabur.app/developers): Free - JSON API for the 104 FIFA World Cup 2026 fixtures, with optional IANA time-zone conversion and match share-card links.
 
 ### Other resources
 * [Awesome Footbal](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets.
