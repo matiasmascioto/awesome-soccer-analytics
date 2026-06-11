@@ -1,6 +1,6 @@
 # Awesome Soccer Analytics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources related to *Soccer Analytics* in *english* and *spanish*.
+A curated list of awesome resources related to *Soccer Analytics* in *English* and *Spanish*.
 
 - References:
 	- *S+: Soccer and other sports. The resource is not just about soccer.*
@@ -130,7 +130,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 
 ## Open Source Libraries
 ### Visualisation
-* [BirdsPyView](https://github.com/rjtavares/BirdsPyView): (Python) A Streamlit app to transform perspective of an image to a top-down view by identifying a rectangle on the ground
+* [BirdsPyView](https://github.com/rjtavares/BirdsPyView): (Python) A Streamlit app to transform the perspective of an image to a top-down view by identifying a rectangle on the ground
 * [ggsoccer](https://github.com/Torvaney/ggsoccer) - (R) Plot Opta-style soccer event data in R/ggplot2.
 * [PlusMinusModels](https://github.com/tpospisi/PlusMinusModels) - (R) This package fits plus-minus models for sports data.
 * [PyFootballPitch](https://github.com/znstrider/PyFootballPitch) - (Python) Functions to draw a football pitch in various available styles for matplotlib and bokeh.
@@ -141,7 +141,8 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Tracking-Data](https://github.com/KubaMichalczyk/Tracking-Data) - (R) Plots soccer tracking data.
 
 ### Others
-* [Codeball](https://codeball.metrica-sports.com/) - (Python) Data driven tactical and video analysis of soccer games.
+* [AI Football Prediction Engine - World Cup 2026](https://github.com/AmirMotefaker/ai-football-prediction-engine-world-cup-2026) - Open-source AI prediction system using Bivariate Poisson, Monte Carlo simulation, and GPT-4o for World Cup 2026 match predictions.
+* [Codeball](https://codeball.metrica-sports.com/) - (Python) Data-driven tactical and video analysis of soccer games.
 * [Expected-Goals-Model](https://github.com/KubaMichalczyk/Expected-Goals-Model) - (R) Expected Goals Model.
 * [extending-xG-gain](https://github.com/KubaMichalczyk/extending-xG-gain) - (R) An attempt to extend xG gain.
 * [Football-crunching](https://github.com/rjtavares/football-crunching) - (Python) Some soccer analysis.
