@@ -98,6 +98,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/): Free - .csv - Dataset of elite soccer player movements and corresponding videos
 * [StatsBomb Open Data](https://github.com/statsbomb/open-data): - Free - JSON - Competitions and matches (with events)
 * [wosostats](https://github.com/amj2012/wosostats): Free - .csv - Data about women's soccer from around the world.
+* [World Cup 2026 Player Data](https://github.com/risingtransfers/world-cup-2026-data) — All 48 squads (1,363 players) with per-90 stats and AI player similarity examples. CC BY 4.0.
 
 ### APIs
 * [BDFUTBOL](https://www.bdfutbol.com/es/c/api2.html): Paid - Historical football results, players and teams data
