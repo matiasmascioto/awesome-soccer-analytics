@@ -102,6 +102,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 ### APIs
 * [BDFUTBOL](https://www.bdfutbol.com/es/c/api2.html): Paid - Historical football results, players and teams data
 * [ClubElo](http://clubelo.com/API): Free - Historical ELO rankings for european soccer.
+* [SkipOdds](https://skipodds.com) (S+): Freemium - De-vigged fair win probabilities (probabilities sum to 100%), averaged from 69+ bookmakers. Soccer plus 12 other sports.
 
 ### Other resources
 * [Awesome Footbal](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets.
