@@ -166,6 +166,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 ## Tools & Projects
 * [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) - (Python) Following Messi with TensorFlow and Object Detection.
 * [Expected Goals interactive site](https://torvaney.github.io/projects/xG.htm
+* [Football Beliefs, Tested](https://github.com/ranausmanai/count-and-strike) - (Python) Pre-registered tests of 20 coaching beliefs and ~9,400 tactical rules on StatsBomb 360 and open tracking data, with a white paper.
 * [Football + Voronoi](http://durtal.github.io/interactives/Football-Voronoi/)
 * [Game event Tracker](https://codepen.io/Mcnultyj/live/gdVbyv)
 l)
