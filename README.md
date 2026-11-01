@@ -28,6 +28,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [differentgame](https://differentgame.wordpress.com/)
 * [EightyFivePoints](http://eightyfivepoints.blogspot.com/)
 * [Football Crunching](https://medium.com/football-crunching)
+* [Football Edge Lab](https://footballedgelab.com/) - Probabilistic forecasts, public model evaluation, and original research with downloadable results.
 * [Football Science](https://www.footballscience.net/)
 * [Football Data Science](http://business-analytic.co.uk/blog/home-page/)
 * [Football Whispers](https://www.footballwhispers.com/)
