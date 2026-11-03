@@ -36,6 +36,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [North Yard Analytics](https://www.northyardanalytics.com/blog/)
 * [OptaPro](https://www.optasportspro.com/news-and-analysis/?_news_category=football)
 * [Proform AFC](https://proformanalytics.wordpress.com/)
+* [Smart Soccer Stats](https://smartsoccerstats.eu/)
 * [Soccermetrics](http://www.soccermetrics.net/blog)
 * [Stats and snakeoil](http://www.statsandsnakeoil.com/)
 * [StatsBomb](https://statsbomb.com/)
