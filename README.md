@@ -164,6 +164,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [Three At The Back (By OptaPro)](https://itunes.apple.com/sk/podcast/three-at-the-back/id1143073118?mt=2)
 
 ## Tools & Projects
+* [Calculation Hub Soccer Statistics Calculator](https://calculation-hub.com/soccer/soccer-stats) - Calculate success percentages and activity rates from attempts, successful attempts, and minutes played.
 * [Following Messi](https://becominghuman.ai/following-messi-with-tensorflow-and-object-detection-20ba6d75667) - (Python) Following Messi with TensorFlow and Object Detection.
 * [Expected Goals interactive site](https://torvaney.github.io/projects/xG.htm
 * [Football + Voronoi](http://durtal.github.io/interactives/Football-Voronoi/)
