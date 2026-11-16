@@ -172,6 +172,7 @@ l)
 * [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) - (Python) Plotting xy football data in python.
 * [PySport](https://pysport.org/)
 * [Soccer event logger](https://torvaney.github.io/projects/tracker.html)
+* [Footalytics](https://footalytics.farvor.com) - AI football match predictions: win/draw/loss probabilities, confidence tiers, over/under 2.5 and BTTS markets, team ratings, plus a publicly graded accuracy ledger of every past pick.
 
 
 
