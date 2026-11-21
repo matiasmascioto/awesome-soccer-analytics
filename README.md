@@ -96,6 +96,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 * [RoboCup Soccer Simulator](http://oliver.obst.eu/data/RoboCupSimData/overview.html): Free - .csv - RoboCup Soccer Simulator Data
 * [Soccer match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000/2): Free - .json - Spatio-temporal events (passes, shots, fouls, etc.) that occur during all matches of an entire season of seven competitions (La Liga, Serie A, Bundesliga, Premier League, Ligue 1, FIFA World Cup 2018, UEFA Euro Cup 2016).
 * [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/): Free - .csv - Dataset of elite soccer player movements and corresponding videos
+* [AsianScore Verifiable xG & Match Prediction Ledger](https://asianscore.com/models.html#ledger): Free - JSON/CSV - Pre-kickoff SHA-256 locked football & NBA probability benchmark with open REST API (`/api/ledger`) and Brier Score settlement.
 * [StatsBomb Open Data](https://github.com/statsbomb/open-data): - Free - JSON - Competitions and matches (with events)
 * [wosostats](https://github.com/amj2012/wosostats): Free - .csv - Data about women's soccer from around the world.
 
