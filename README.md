@@ -102,6 +102,7 @@ A curated list of awesome resources related to *Soccer Analytics* in *english* a
 ### APIs
 * [BDFUTBOL](https://www.bdfutbol.com/es/c/api2.html): Paid - Historical football results, players and teams data
 * [ClubElo](http://clubelo.com/API): Free - Historical ELO rankings for european soccer.
+* [SportStatsAPI](https://sportstatsapi.com/): Free tier - Fixtures, results, live scores and standings for football leagues worldwide, down to regional leagues (free key: 100 requests a day, non-commercial with a credit link).
 
 ### Other resources
 * [Awesome Footbal](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets.
